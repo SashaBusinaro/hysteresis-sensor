@@ -1,1 +1,1 @@
-"""The Hysteresis sensor integration."""
+# __init__.py
